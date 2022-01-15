@@ -1,3 +1,3 @@
 # coding_challenges
 
-changes
+today I learned about linked lists
