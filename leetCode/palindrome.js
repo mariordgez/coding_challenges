@@ -1,3 +1,5 @@
+// Link to Excercise: https://leetcode.com/problems/palindrome-number/
+
 var isPalindrome = function (x) {
   const s = x.toString();
   if (s.length === 1) {
